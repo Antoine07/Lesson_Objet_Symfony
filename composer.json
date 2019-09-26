@@ -1,0 +1,8 @@
+{
+  "name": "cart/cart",
+  "description": "cart container service",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {
+  }
+}
